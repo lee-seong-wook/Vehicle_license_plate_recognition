@@ -1,5 +1,14 @@
 # Vehicle-license-plate-recognition
 
+> **** <br/>
+> 주제: 자동차 번호판 인식 서비스를 통한 효율적인 교통 관리와 안전 강화   <br/>
+> **프로젝트 기간: 2022.08.20 ~ 2022.08.22**
+
+
+|      이성욱       |
+| :------------------------------------------------------------------------------: |
+|   <img width="180px" src="https://github.com/lee-seong-wook/Vehicle-license-plate-recognition/assets/130055880/b560398b-4f23-4403-8c55-099213266525.png" />   
+
 
 
 ![image](https://github.com/lee-seong-wook/Vehicle-license-plate-recognition/assets/130055880/4f000257-c431-4d82-aa91-cc027468264f)
