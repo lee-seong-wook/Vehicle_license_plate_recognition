@@ -1,4 +1,4 @@
-# Vehicle-license-plate-recognition
+# Vehicle_license_plate_recognition
 
 > **** <br/>
 > 주제: 자동차 번호판 인식 서비스를 통한 효율적인 교통 관리와 안전 강화   <br/>
