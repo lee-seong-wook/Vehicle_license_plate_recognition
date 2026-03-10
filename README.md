@@ -45,8 +45,8 @@ Vehicle_license_plate_recognition은 차량 번호판 영역을 검출한 뒤 OC
 <details>
 <summary>Participant</summary>
 
-| Name | Photo | Role |
-| --- | --- | --- |
-| 이성욱 | ![이성욱](https://github.com/lee-seong-wook/Vehicle-license-plate-recognition/assets/130055880/b560398b-4f23-4403-8c55-099213266525.png) | 번호판 검출 및 OCR 파이프라인 구현 |
+| Name | Role |
+| --- | --- |
+| 이성욱 | 번호판 검출 및 OCR 파이프라인 구현 |
 
 </details>
