@@ -2,8 +2,10 @@
 
 > A YOLOv5 and OCR-based license plate recognition pipeline for vehicle number localization and text extraction.
 
+![License Plate Detection](https://github.com/lee-seong-wook/Vehicle-license-plate-recognition/assets/130055880/4f000257-c431-4d82-aa91-cc027468264f)
+
 ## Overview
-Vehicle_license_plate_recognition은 차량 번호판 영역을 검출한 뒤 OCR로 문자와 숫자를 읽어내는 프로젝트입니다. YOLOv5 기반 검출 모델 학습과 추론 실험을 진행하고, 이후 OCR을 적용해 번호판 텍스트를 추출하는 흐름으로 구성했습니다. 짧은 기간 안에 검출과 인식을 하나의 파이프라인으로 묶는 데 초점을 둔 프로젝트입니다.
+Vehicle_license_plate_recognition은 Colab 환경에서 YOLOv5 번호판 검출 모델과 OCR 후처리를 연결해 번호판 텍스트 추출 흐름을 검증한 프로젝트입니다. 짧은 기간 안에 데이터셋 준비, 검출 모델 실험, OCR 적용을 하나의 워크플로우로 정리하는 데 초점을 두었습니다.
 
 ## Project Context
 | Item | Details |
@@ -37,10 +39,8 @@ Vehicle_license_plate_recognition은 차량 번호판 영역을 검출한 뒤 OC
 2. YOLOv5 환경 설치 셀과 데이터셋 다운로드 셀을 순서대로 실행합니다.
 3. 학습 또는 추론 후 OCR 셀을 실행해 텍스트 추출 결과를 확인합니다.
 
-## Project Gallery
-| Detection Result | Additional Example |
-| --- | --- |
-| ![License Plate Detection](https://github.com/lee-seong-wook/Vehicle-license-plate-recognition/assets/130055880/4f000257-c431-4d82-aa91-cc027468264f) | ![License Plate Example](https://github.com/lee-seong-wook/Vehicle-license-plate-recognition/assets/130055880/726ec51e-3f6e-4793-89c3-4f48ef2bb538) |
+## Workflow Example
+![License Plate Workflow Example](https://github.com/lee-seong-wook/Vehicle-license-plate-recognition/assets/130055880/726ec51e-3f6e-4793-89c3-4f48ef2bb538)
 
 <details>
 <summary>Participant</summary>
